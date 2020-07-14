@@ -11,3 +11,8 @@ multithreading java rs etc..
 1.ways of creating thread --> dev package -->App,Demo.java
 
 
+# Git settings
+
+https://smarterco.de/set-the-username-and-email-in-git-globally-and-per-project/
+
+
